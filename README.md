@@ -18,3 +18,6 @@ What I found useful about using Python for text processing was that Python seems
 By completing this assignment, I learned how to input command line arguments into Python programs, use RegEx to validate data, and pickle and unpickle files in Python. I got to review Python File I/O, Python classes, and RegEx rules. 
 
 
+## Word Guessing Game
+
+In this [Python program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/word_guessing_game/main.py), I read in data from a file containing text about anatomy, preprocessed the text to find the 50 most common nouns in the text, and then created a word guessing game that randomly selects a noun from the 50 most common nouns and encourages the user to guess that noun. 
