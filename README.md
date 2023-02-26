@@ -21,3 +21,6 @@ By completing this assignment, I learned how to input command line arguments int
 ## Word Guessing Game
 
 In this [Python program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/word_guessing_game/main.py), I read in data from a file containing text about anatomy, preprocessed the text to find the 50 most common nouns in the text, and then created a word guessing game that randomly selects a noun from the 50 most common nouns and encourages the user to guess that noun. 
+
+## WordNet
+In this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/wordnet/wordnet.pdf), I explore WordNet, SentiWordNet, and collocations. 
