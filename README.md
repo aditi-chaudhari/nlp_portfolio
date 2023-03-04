@@ -24,3 +24,6 @@ In this [Python program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/m
 
 ## WordNet
 In this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/wordnet/wordnet.pdf), I explore WordNet, SentiWordNet, and collocations. 
+
+## Lanuage Classification with N-grams
+Using n-grams, I built a probabilistic language model to classify whether certain text is written in English, French, or Italian. The set-up is done in this [program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/n_grams/program1.py), and the classification is done in this [program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/n_grams/program2.py). I wrote a narrative about n-grams in this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/n_grams/ngrams_narrative.pdf).
