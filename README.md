@@ -27,3 +27,6 @@ In this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/wordnet
 
 ## Lanuage Classification with N-grams
 Using n-grams, I built a probabilistic language model to classify whether certain text is written in English, French, or Italian. The set-up is done in this [program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/n_grams/program1.py), and the classification is done in this [program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/n_grams/program2.py). I wrote a narrative about n-grams in this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/n_grams/ngrams_narrative.pdf).
+
+## Sentence Parsing
+I practiced PSG parsing, dependency parsing, and SRL parsing in this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/sentence_parsing.pdf). 
