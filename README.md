@@ -30,3 +30,6 @@ Using n-grams, I built a probabilistic language model to classify whether certai
 
 ## Sentence Parsing
 I practiced PSG parsing, dependency parsing, and SRL parsing in this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/sentence_parsing.pdf). 
+
+## Web Crawler 
+I built a web crawler in this [Python program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/web_crawler/main.py). The documentation for the web crawler can be found in this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/web_crawler/web_crawler_documentation.pdf).
