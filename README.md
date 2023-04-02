@@ -33,3 +33,6 @@ I practiced PSG parsing, dependency parsing, and SRL parsing in this [PDF](https
 
 ## Web Crawler 
 I built a web crawler in this [Python program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/web_crawler/main.py). The documentation for the web crawler can be found in this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/web_crawler/web_crawler_documentation.pdf).
+
+## Text Classification with sklearn
+I used sklearn to perform classification using Naive Bayes, logistic regression, and neural networks in this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/text_classification/Text%20Classification%20with%20sklearn.pdf).
