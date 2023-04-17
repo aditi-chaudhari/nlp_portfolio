@@ -36,3 +36,10 @@ I built a web crawler in this [Python program](https://github.com/aditi-chaudhar
 
 ## Text Classification with sklearn
 I used sklearn to perform classification using Naive Bayes, logistic regression, and neural networks in this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/text_classification/Text%20Classification%20with%20sklearn.pdf).
+
+## ACL Paper
+I read and summarized a paper titled “From the Detection of Toxic Spans in Online Discussion to the
+Analysis of Toxic-to-Civil Transfer” in this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/acl_paper.pdf).
+
+## Chatbot
+I build a simple chatbot that attempts to predict your zodiac sign and can tell you facts about each zodiac sign in this [Python program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/chatbot/chatbot.py). To build the knowledge base, I built a web scraper that scrapes information on each zodiac sign in this [program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/chatbot/web_scraper.py). The model used to predict the user's zodiac sign can be found [here](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/chatbot/sign_classification.py). 
