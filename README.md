@@ -43,3 +43,6 @@ Analysis of Toxic-to-Civil Transfer” in this [PDF](https://github.com/aditi-ch
 
 ## Chatbot
 I build a simple chatbot that attempts to predict your zodiac sign and can tell you facts about each zodiac sign in this [Python program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/chatbot/chatbot.py). To build the knowledge base, I built a web scraper that scrapes information on each zodiac sign in this [program](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/chatbot/web_scraper.py). The model used to predict the user's zodiac sign can be found [here](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/chatbot/sign_classification.py). 
+
+## Text Classification with Deep Learning
+In this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/text_classification_DL/text_classification_DL.pdf), I used TensorFlow and Keras for binary text classification. The deep learning models that I built attempt to classify whether someone is depressed or not based off a Reddit post that they made. 
