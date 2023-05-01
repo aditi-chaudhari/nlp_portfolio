@@ -46,3 +46,7 @@ I build a simple chatbot that attempts to predict your zodiac sign and can tell 
 
 ## Text Classification with Deep Learning
 In this [PDF](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/text_classification_DL/text_classification_DL.pdf), I used TensorFlow and Keras for binary text classification. The deep learning models that I built attempt to classify whether someone is depressed or not based off a Reddit post that they made. 
+
+## Wrap-Up
+
+I am thrilled about the possibilities of Natural Language Processing (NLP) and how it can make technology more human and user-friendly. When ChatGPT became popular, I became even more interested in NLP and decided to take the Human Language Technologies course to learn more. Through the course, I gained a plethora of new skills, which I talk about [here](https://github.com/aditi-chaudhari/nlp_portfolio/blob/main/nlp_wrapup.pdf). In the future, I plan to improve my astrology chatbot and make it a fun and engaging app, similar to the astrology app Co-Star. I am always on the lookout for new and emerging NLP technologies that interest me, and I am committed to staying up-to-date with the latest programming techniques. I am enthusiastic about NLP and excited to continue exploring its possibilities.
